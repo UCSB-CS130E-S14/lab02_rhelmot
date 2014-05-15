@@ -1,8 +1,8 @@
-CS130E-S14-Labs
-===============
+Lightshield Player
+==================
 
-If you made something for lab02, 
-the Arduino shield, put it in this repo
-and push.
+This is a basic demo that allows you to switch on and off the lights on an arduino.
 
+A more complete version, that allows you to try out your own code, is at:
 
+https://github.com/rhelmot/light-simulator
